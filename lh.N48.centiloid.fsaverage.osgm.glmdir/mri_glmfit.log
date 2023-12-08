@@ -1,0 +1,23 @@
+
+$Id: mri_glmfit.c,v 1.241.2.4 2016/12/08 22:02:40 zkaufman Exp $
+cwd /autofs/cluster/animal/users/yuta/tau_cog_prediction
+cmdline mri_glmfit.bin --y /cluster/animal/users/yuta/tau_cog_prediction/glm/lh.N48.centiloid.fsaverage.mgh --osgm --surf fsaverage lh --cortex --glmdir /cluster/animal/users/yuta/tau_cog_prediction/glm/lh.N48.centiloid.fsaverage.osgm.glmdir 
+sysname  Linux
+hostname hermione.nmr.mgh.harvard.edu
+machine  x86_64
+user     yk879
+FixVertexAreaFlag = 1
+UseMaskWithSmoothing     1
+OneSampleGroupMean 1
+y    /autofs/cluster/animal/users/yuta/tau_cog_prediction/glm/lh.N48.centiloid.fsaverage.mgh
+logyflag 0
+usedti  0
+labelmask  /usr/local/freesurfer/stable6_0_0/subjects/fsaverage/label/lh.cortex.label
+maskinv 0
+glmdir /cluster/animal/users/yuta/tau_cog_prediction/glm/lh.N48.centiloid.fsaverage.osgm.glmdir
+IllCondOK 0
+ReScaleX 1
+DoFFx 0
+ResidualFWHM 22.393615
+SearchSpace 74612.583051
+anattype surface
