@@ -1,0 +1,24 @@
+
+$Id: mri_glmfit.c,v 1.241.2.4 2016/12/08 22:02:40 zkaufman Exp $
+cwd /autofs/cluster/animal/users/yuta/tau_cog_prediction/glm
+cmdline mri_glmfit.bin --y /cluster/animal/users/yuta/tau_cog_prediction/glm/rh.sm10.fsaverage.thickness.48pts.nii.gz --fsgd /cluster/animal/users/yuta/tau_cog_prediction/glm/48pts_CDRSBchange.fsgd --C /cluster/animal/users/yuta/tau_cog_prediction/glm/contrast_g1v1.mat --surf fsaverage rh --cortex --glmdir /cluster/animal/users/yuta/tau_cog_prediction/glm/rh.48pts_CDRSBchange_thickness.glmdir 
+sysname  Linux
+hostname icepuff2.nmr.mgh.harvard.edu
+machine  x86_64
+user     yk879
+FixVertexAreaFlag = 1
+UseMaskWithSmoothing     1
+OneSampleGroupMean 0
+y    /autofs/cluster/animal/users/yuta/tau_cog_prediction/glm/rh.sm10.fsaverage.thickness.48pts.nii.gz
+logyflag 0
+usedti  0
+FSGD /cluster/animal/users/yuta/tau_cog_prediction/glm/48pts_CDRSBchange.fsgd
+labelmask  /cluster/animal/users/yuta/tau_cog_prediction/recon/fsaverage/label/rh.cortex.label
+maskinv 0
+glmdir /cluster/animal/users/yuta/tau_cog_prediction/glm/rh.48pts_CDRSBchange_thickness.glmdir
+IllCondOK 0
+ReScaleX 1
+DoFFx 0
+ResidualFWHM 17.018714
+SearchSpace 74490.844410
+anattype surface
