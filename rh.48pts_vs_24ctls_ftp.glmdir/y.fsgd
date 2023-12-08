@@ -1,0 +1,89 @@
+GroupDescriptorFile 1
+Title 	ahhhh	
+
+MeasurementName external
+Tessellation surface
+PlotFile /autofs/cluster/animal/users/yuta/tau_cog_prediction/glm/rh.mgx.ctxgm.sm08.fsaverage.ftp.48pts_vs_24ctls.nii.gz
+DesignMatFile X.mat dods
+dods
+DeMeanFlag -1
+ReScaleFlag 0
+ResidualFWHM 35.307071
+LogY 0
+Class ad
+Class cn
+Input ASTR_M_46 ad 
+Input CBIA_F_66 ad 
+Input CDOE_F_57 ad 
+Input CMID_F_63 ad 
+Input CPRO_F_41 ad 
+Input CWHI_F_66 ad 
+Input CWIL_F_44 ad 
+Input DCOG_F_55 ad 
+Input DDAM_F_66 ad 
+Input DGOR_F_65 ad 
+Input DMON_F_57 ad 
+Input DROG_F_62 ad 
+Input DSCI_F_55 ad 
+Input DTUB_M_48 ad 
+Input GCON_F_49 ad 
+Input GGRI_M_46 ad 
+Input GGRI_M_66 ad 
+Input GHAR_F_41 ad 
+Input ITAY_F_34 ad 
+Input JBEA_F_61 ad 
+Input JBOG_M_57 ad 
+Input JCAL_F_58 ad 
+Input JMCC_M_44 ad 
+Input JPRE_F_53 ad 
+Input JTHO_M_58 ad 
+Input KHAN_F_67 ad 
+Input MCAR_F_45 ad 
+Input MDOY_F_65 ad 
+Input MHAM_F_63 ad 
+Input MMOR_F_57 ad 
+Input MRYA_M_61 ad 
+Input PCIO_M_55 ad 
+Input PDON_M_50 ad 
+Input PERN_M_60 ad 
+Input PNIC_F_46 ad 
+Input PTHO_M_56 ad 
+Input RFOU_F_55 ad 
+Input RSLA_M_66 ad 
+Input RTOY_M_42 ad 
+Input SFIT_F_57 ad 
+Input SFRA_F_42 ad 
+Input SMAT_F_64 ad 
+Input TBRE_M_43 ad 
+Input TCON_M_56 ad 
+Input TMCG_M_41 ad 
+Input TRAM_M_54 ad 
+Input WSTA_M_56 ad 
+Input WSTO_M_51 ad 
+Input S_1S96QD cn 
+Input S_2N88VA cn 
+Input S_3EFRS7 cn 
+Input S_3RSPPP cn 
+Input S_693X4P cn 
+Input S_6WH2GJ cn 
+Input S_A93TSQ cn 
+Input S_CMM2WL cn 
+Input S_DL4N2Q cn 
+Input S_DTW7J6 cn 
+Input S_DWA2LP cn 
+Input S_F4PH5M cn 
+Input S_FCBAMR cn 
+Input S_FDJ6UU cn 
+Input S_FMSJER cn 
+Input S_KBGJQU cn 
+Input S_KCT9S6 cn 
+Input S_MX83QU cn 
+Input S_NDNG2P cn 
+Input S_RHXWND cn 
+Input S_WA1CLD cn 
+Input S_XXMGFN cn 
+Input S_XY62WP cn 
+Input S_ZPBHLL cn 
+Creator          mri_glmfit.bin
+SUBJECTS_DIR     /usr/local/freesurfer/stable6_0_0/subjects
+SynthSeed        1695530377
